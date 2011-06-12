@@ -1,0 +1,37 @@
+upstream
+{
+	url="http://source.ideaworks3d.com/upstream/libpng-1.2.34.tar.bz2"
+}
+
+includepath
+{
+	.
+	"upstream"
+}
+
+package zlib
+subproject zlib
+
+files
+{
+	("upstream")
+	png.h
+	pngconf.h
+	png.c
+	pngerror.c
+	pnggccrd.c
+	pngget.c
+	pngmem.c
+	pngpread.c
+	pngread.c
+	pngrio.c
+	pngrtran.c
+	pngrutil.c
+	pngset.c
+	pngtrans.c
+	pngvcrd.c
+	pngwio.c
+	pngwrite.c
+	pngwtran.c
+	pngwutil.c
+}

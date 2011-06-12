@@ -1,0 +1,16 @@
+Package: libpng
+Version: 1.2.34
+Revision: 5
+Maintainer: Marmalade Package Team <packages@ideaworkslabs.com>
+Mkbs: libpng.mkb
+Libraries: png
+Description: |
+ library for read and writing PNG formatting images.
+Contents:
+ - upstream/png.h : h/png.h
+ - upstream/pngconf.h : h/pngconf.h
+ - libpng_public.mkf : libpng.mkf
+Contents-Source:
+ - libpng.mkb
+ - libpng.mkf
+ - pngtest.mkb

@@ -1,0 +1,15 @@
+# Public mkf file for libpng package
+
+package zlib
+subproject zlib
+
+includepath h
+
+files
+{
+    (h)
+    png.h
+    pngconf.h
+}
+
+library ".,png"
