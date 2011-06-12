@@ -2,3 +2,5 @@ lib
 upstream
 build_*
 libpng-*.tar.bz2
+libpng_*.msrc
+libpng_*.mdev
