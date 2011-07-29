@@ -1,5 +1,11 @@
+libpng (1.2.34-6)
+
+  * add missing libpng_public.mkf for source package
+
+ -- Marmalade Package Team <packages@marmalademail.com>  Thu, 28 Jul 2011
+
 libpng (1.2.34-4)
 
   * add includepath to public mkf
 
- -- Marmalade Package Team <packages@ideaworkslabs.com>  Mon, 16 May 2011
+ -- Marmalade Package Team <packages@marmalademail.com>  Mon, 16 May 2011
