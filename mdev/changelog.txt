@@ -1,11 +1,17 @@
+libpng (1.2.34-7)
+
+  * rebuild with new SDK to include mips libraries.
+
+ -- Sam Clegg <sam@marmalademail.com>  Tue, 02 Aug 2011 22:58:31 +0000
+
 libpng (1.2.34-6)
 
   * add missing libpng_public.mkf for source package
 
- -- Marmalade Package Team <packages@marmalademail.com>  Thu, 28 Jul 2011
+ -- Sam Clegg <sam@marmalademail.com>  Thu, 28 Jul 2011
 
 libpng (1.2.34-4)
 
   * add includepath to public mkf
 
- -- Marmalade Package Team <packages@marmalademail.com>  Mon, 16 May 2011
+ -- Sam Clegg <sam@marmalademail.com>  Mon, 16 May 2011
